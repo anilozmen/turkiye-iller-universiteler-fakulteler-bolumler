@@ -6,3 +6,6 @@ Bootstrap form ile PHP-AJAX kullanarak il->üniversite->fakülte->bölümler ola
 Bütün veriler YÖK'ten 08/08/2017 tarihinde alınmıştır.
 
 Şuan bulunan bütün veriler günceldir.
+
+![alt text](https://i.hizliresim.com/Akdaaz.png)
+
