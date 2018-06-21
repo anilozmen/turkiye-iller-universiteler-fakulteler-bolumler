@@ -5,5 +5,3 @@
 Bütün veriler YÖK'ten 08/08/2017 tarihinde alınmıştır.
 
 Şuan bulunan bütün veriler 08/08/2017 tarihinde hazırlanmıştır.
-
-![alt text](https://i.hizliresim.com/Akdaaz.png)
